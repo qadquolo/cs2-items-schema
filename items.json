@@ -9851,7 +9851,7 @@
     "def": "7",
     "image": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_blue_light_large.9f8ec5103efa5b7a0b3919a13b4de78e1bd612a0.png",
     "paint": "226",
-    "rarity": "3"
+    "rarity": "4"
   },
   "[227]9": {
     "containers": [
@@ -9860,7 +9860,7 @@
     "def": "9",
     "image": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_awp_hy_hive_light_large.2189958e2afa2c69cfcdd807124c279a0e645625.png",
     "paint": "227",
-    "rarity": "4"
+    "rarity": "5"
   },
   "[228]19": {
     "containers": [
@@ -9938,7 +9938,7 @@
     "def": "1",
     "image": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.a486db3160bcdcf6bc5a1d8179c450b02f620151.png",
     "paint": "231",
-    "rarity": "4"
+    "rarity": "5"
   },
   "[232]1": {
     "containers": [
@@ -21079,5 +21079,761 @@
     "image": "http://media.steampowered.com/apps/730/icons/econ/default_generated/weapon_aug_hy_tiger_light_large.d2fe957d3903dc5779403ed1c95947e18fa7e6fd.png",
     "paint": "9",
     "rarity": "5"
+  },
+  "[542]26": {
+    "containers": [
+      "4233"
+    ],
+    "def": "26",
+    "image": null,
+    "paint": "542",
+    "rarity": "6"
+  },
+  "[1169]2": {
+    "containers": [
+      "4904"
+    ],
+    "def": "2",
+    "image": null,
+    "paint": "1169",
+    "rarity": "3"
+  },
+  "[1164]17": {
+    "containers": [
+      "4904"
+    ],
+    "def": "17",
+    "image": null,
+    "paint": "1164",
+    "rarity": "3"
+  },
+  "[1162]35": {
+    "containers": [
+      "4904"
+    ],
+    "def": "35",
+    "image": null,
+    "paint": "1162",
+    "rarity": "3"
+  },
+  "[1161]40": {
+    "containers": [
+      "4904"
+    ],
+    "def": "40",
+    "image": null,
+    "paint": "1161",
+    "rarity": "3"
+  },
+  "[1159]30": {
+    "containers": [
+      "4904"
+    ],
+    "def": "30",
+    "image": null,
+    "paint": "1159",
+    "rarity": "3"
+  },
+  "[1175]24": {
+    "containers": [
+      "4904"
+    ],
+    "def": "24",
+    "image": null,
+    "paint": "1175",
+    "rarity": "3"
+  },
+  "[1174]25": {
+    "containers": [
+      "4904"
+    ],
+    "def": "25",
+    "image": null,
+    "paint": "1174",
+    "rarity": "3"
+  },
+  "[1167]4": {
+    "containers": [
+      "4904"
+    ],
+    "def": "4",
+    "image": null,
+    "paint": "1167",
+    "rarity": "4"
+  },
+  "[1165]16": {
+    "containers": [
+      "4904"
+    ],
+    "def": "16",
+    "image": null,
+    "paint": "1165",
+    "rarity": "4"
+  },
+  "[1168]3": {
+    "containers": [
+      "4904"
+    ],
+    "def": "3",
+    "image": null,
+    "paint": "1168",
+    "rarity": "4"
+  },
+  "[1163]33": {
+    "containers": [
+      "4904"
+    ],
+    "def": "33",
+    "image": null,
+    "paint": "1163",
+    "rarity": "4"
+  },
+  "[1160]29": {
+    "containers": [
+      "4904"
+    ],
+    "def": "29",
+    "image": null,
+    "paint": "1160",
+    "rarity": "4"
+  },
+  "[1166]60": {
+    "containers": [
+      "4904"
+    ],
+    "def": "60",
+    "image": null,
+    "paint": "1166",
+    "rarity": "5"
+  },
+  "[1172]31": {
+    "containers": [
+      "4904"
+    ],
+    "def": "31",
+    "image": null,
+    "paint": "1172",
+    "rarity": "5"
+  },
+  "[1173]61": {
+    "containers": [
+      "4904"
+    ],
+    "def": "61",
+    "image": null,
+    "paint": "1173",
+    "rarity": "5"
+  },
+  "[1170]9": {
+    "containers": [
+      "4904"
+    ],
+    "def": "9",
+    "image": null,
+    "paint": "1170",
+    "rarity": "6"
+  },
+  "[1171]7": {
+    "containers": [
+      "4904"
+    ],
+    "def": "7",
+    "image": null,
+    "paint": "1171",
+    "rarity": "6"
+  },
+  "[294]13": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "13",
+    "image": null,
+    "paint": "294",
+    "rarity": "2"
+  },
+  "[1212]36": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "36",
+    "image": null,
+    "paint": "1212",
+    "rarity": "2"
+  },
+  "[1199]19": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "19",
+    "image": null,
+    "paint": "1199",
+    "rarity": "2"
+  },
+  "[1195]63": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "63",
+    "image": null,
+    "paint": "1195",
+    "rarity": "2"
+  },
+  "[1198]8": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "8",
+    "image": null,
+    "paint": "1198",
+    "rarity": "2"
+  },
+  "[1337]35": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "8",
+    "image": null,
+    "paint": "1198",
+    "rarity": "2"
+  },
+  "[1203]24": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "24",
+    "image": null,
+    "paint": "1203",
+    "rarity": "3"
+  },
+  "[1201]25": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "25",
+    "image": null,
+    "paint": "1201",
+    "rarity": "3"
+  },
+  "[1200]4": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "4",
+    "image": null,
+    "paint": "1200",
+    "rarity": "3"
+  },
+  "[1202]10": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "10",
+    "image": null,
+    "paint": "1202",
+    "rarity": "3"
+  },
+  "[1214]30": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "30",
+    "image": null,
+    "paint": "1214",
+    "rarity": "4"
+  },
+  "[1204]17": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "17",
+    "image": null,
+    "paint": "1204",
+    "rarity": "4"
+  },
+  "[1205]31": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "31",
+    "image": null,
+    "paint": "1205",
+    "rarity": "4"
+  },
+  "[1209]16": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "16",
+    "image": null,
+    "paint": "1209",
+    "rarity": "5"
+  },
+  "[1211]34": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "34",
+    "image": null,
+    "paint": "1211",
+    "rarity": "5"
+  },
+  "[1213]9": {
+    "containers": [
+      "5225", "5126"
+    ],
+    "def": "9",
+    "image": null,
+    "paint": "1213",
+    "rarity": "6"
+  },
+  "[1062]3": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "3",
+    "image": null,
+    "paint": "1062",
+    "rarity": "2"
+  },
+  "[133]19":  {
+    "containers": [
+      "5221" 
+    ],
+    "def": "19",
+    "image": null,
+    "paint": "133",
+    "rarity": "2"
+  },
+  "[161]23": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "23",
+    "image": null,
+    "paint": "161",
+    "rarity": "2"
+  },
+  "[160]60": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "60",
+    "image": null,
+    "paint": "160",
+    "rarity": "2"
+  },
+  "[138]1": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "1",
+    "image": null,
+    "paint": "138",
+    "rarity": "2"
+  },
+  "[144]28": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "28",
+    "image": null,
+    "paint": "144",
+    "rarity": "2"
+  },
+  "[239]13": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "13",
+    "image": null,
+    "paint": "239",
+    "rarity": "3"
+  },
+  "[140]17": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "17",
+    "image": null,
+    "paint": "140",
+    "rarity": "3"
+  },
+  "[145]35": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "35",
+    "image": null,
+    "paint": "145",
+    "rarity": "3"
+  },
+  "[152]4": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "4",
+    "image": null,
+    "paint": "152",
+    "rarity": "3"
+  },
+  "[139]2": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "2",
+    "image": null,
+    "paint": "139",
+    "rarity": "4"
+  },
+  "[146]25": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "25",
+    "image": null,
+    "paint": "146",
+    "rarity": "4"
+  }, 
+  "[134]8":  {
+    "containers": [
+      "5221" 
+    ],
+    "def": "8",
+    "image": null,
+    "paint": "134",
+    "rarity": "4"
+  },
+  "[137]9": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "9",
+    "image": null,
+    "paint": "137",
+    "rarity": "5"
+  },
+  "[292]31": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "31",
+    "image": null,
+    "paint": "292",
+    "rarity": "5"
+  },
+  "[142]7": {
+    "containers": [
+      "5221" 
+    ],
+    "def": "7",
+    "image": null,
+    "paint": "142",
+    "rarity": "6"
+  },
+  "[115]61": {
+    "containers": [
+      "7003" 
+    ],
+    "def": "61",
+    "image": null,
+    "paint": "115",
+    "rarity": "3"
+  },
+  "[114]1":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "1",
+    "image": null,
+    "paint": "114",
+    "rarity": "3"
+  },
+  "[1180]23":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "23",
+    "image": null,
+    "paint": "1180",
+    "rarity": "3"
+  },
+  "[121]8": {
+    "containers": [
+      "7003" 
+    ],
+    "def": "8",
+    "image": null,
+    "paint": "121",
+    "rarity": "3"
+  },
+  "[120]14": {
+    "containers": [
+      "7003" 
+    ],
+    "def": "14",
+    "image": null,
+    "paint": "120",
+    "rarity": "3"
+  },
+  "[123]64":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "64",
+    "image": null,
+    "paint": "123",
+    "rarity": "3"
+  },
+  "[117]38":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "38",
+    "image": null,
+    "paint": "117",
+    "rarity": "3"
+  },
+  "[118]16":   {
+    "containers": [
+      "7003" 
+    ],
+    "def": "16",
+    "image": null,
+    "paint": "118",
+    "rarity": "4"
+  },
+  "[112]2":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "2",
+    "image": null,
+    "paint": "112",
+    "rarity": "4"
+  },
+  "[126]17":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "17",
+    "image": null,
+    "paint": "126",
+    "rarity": "4"
+  },
+  "[127]19":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "19",
+    "image": null,
+    "paint": "127",
+    "rarity": "4"
+  },
+  "[128]40":   {
+    "containers": [
+      "7003" 
+    ],
+    "def": "40",
+    "image": null,
+    "paint": "128",
+    "rarity": "4"
+  },
+  "[113]7":   {
+    "containers": [
+      "7003" 
+    ],
+    "def": "7",
+    "image": null,
+    "paint": "113",
+    "rarity": "5"
+  },
+  "[130]36":   {
+    "containers": [
+      "7003" 
+    ],
+    "def": "36",
+    "image": null,
+    "paint": "130",
+    "rarity": "5"
+  },
+  "[131]24":   {
+    "containers": [
+      "7003" 
+    ],
+    "def": "24",
+    "image": null,
+    "paint": "131",
+    "rarity": "5"
+  },
+  "[129]4":  {
+    "containers": [
+      "7003" 
+    ],
+    "def": "4",
+    "image": null,
+    "paint": "129",
+    "rarity": "6"
+  },
+  "[106]60": {
+    "containers": [
+      "7003" 
+    ],
+    "def": "60",
+    "image": null,
+    "paint": "106",
+    "rarity": "6"
+  },
+  "[1210]16": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "16",
+    "image": null,
+    "paint": "1210",
+    "rarity": "3"
+  },   
+    "[1188]27": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "27",
+    "image": null,
+    "paint": "1188",
+    "rarity": "3"
+  }, 
+  "[1187]40": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "40",
+    "image": null,
+    "paint": "1187",
+    "rarity": "3"
+  }, 
+  "[1181]32": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "32",
+    "image": null,
+    "paint": "1181",
+    "rarity": "3"
+  }, 
+  "[1186]61": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "61",
+    "image": null,
+    "paint": "1186",
+    "rarity": "3"
+  }, 
+  "[1193]34": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "34",
+    "image": null,
+    "paint": "1193",
+    "rarity": "3"
+  }, 
+  "[1182]25": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "25",
+    "image": null,
+    "paint": "1182",
+    "rarity": "3"
+  }, 
+  "[1189]1": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "1",
+    "image": null,
+    "paint": "1189",
+    "rarity": "4"
+  }, 
+  "[1183]31":  {
+    "containers": [
+      "7007" 
+    ],
+    "def": "31",
+    "image": null,
+    "paint": "1183",
+    "rarity": "4"
+  }, 
+  "[1192]35": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "35",
+    "image": null,
+    "paint": "1192",
+    "rarity": "4"
+  }, 
+  "[1185]13":  {
+    "containers": [
+      "7007" 
+    ],
+    "def": "13",
+    "image": null,
+    "paint": "1185",
+    "rarity": "4"
+  }, 
+  "[1190]19":  {
+    "containers": [
+      "7007" 
+    ],
+    "def": "19",
+    "image": null,
+    "paint": "1190",
+    "rarity": "4"
+  }, 
+  "[1207]7":    {
+    "containers": [
+      "7007" 
+    ],
+    "def": "7",
+    "image": null,
+    "paint": "1207",
+    "rarity": "5"
+  }, 
+  "[1208]4":  {
+    "containers": [
+      "7007" 
+    ],
+    "def": "4",
+    "image": null,
+    "paint": "1208",
+    "rarity": "5"
+  }, 
+  "[1194]24": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "24",
+    "image": null,
+    "paint": "1194",
+    "rarity": "5"
+  }, 
+  "[1184]10": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "10",
+    "image": null,
+    "paint": "1184",
+    "rarity": "6"
+  }, 
+  "[1206]9": {
+    "containers": [
+      "7007" 
+    ],
+    "def": "9",
+    "image": null,
+    "paint": "1206",
+    "rarity": "6"
   }
 }

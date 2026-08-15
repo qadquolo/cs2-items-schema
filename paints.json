@@ -2916,7 +2916,7 @@
   },
   "14": {
     "name": "Red Laminate",
-    "rarity": "4",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
@@ -3354,7 +3354,7 @@
   },
   "174": {
     "name": "BOOM",
-    "rarity": "4",
+    "rarity": "5",
     "wear_max": 0.28,
     "wear_min": 0.06
   },
@@ -3366,7 +3366,7 @@
   },
   "176": {
     "name": "Faded Zebra",
-    "rarity": "2",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
@@ -3630,7 +3630,7 @@
   },
   "217": {
     "name": "Blood Tiger",
-    "rarity": "2",
+    "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
@@ -3660,7 +3660,7 @@
   },
   "221": {
     "name": "Serum",
-    "rarity": "4",
+    "rarity": "5",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
@@ -3690,13 +3690,13 @@
   },
   "226": {
     "name": "Blue Laminate",
-    "rarity": "3",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "227": {
     "name": "Electric Hive",
-    "rarity": "4",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
@@ -3720,7 +3720,7 @@
   },
   "231": {
     "name": "Cobalt Disruption",
-    "rarity": "4",
+    "rarity": "5",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
@@ -5077,7 +5077,7 @@
   },
   "44": {
     "name": "Case Hardened",
-    "rarity": "5",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
@@ -6150,7 +6150,7 @@
   },
   "61": {
     "name": "Hypnotic",
-    "rarity": "5",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
@@ -8590,5 +8590,101 @@
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
-  }
+  },
+  "115": {
+    "name": "27",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "114": {
+    "name": "Calligraffiti",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "121": {
+    "name": "Calligraffiti",
+    "rarity": "3",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "120": {
+    "name": "Hypnosis",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "123": {
+    "name": "Tango",
+    "rarity": "3",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  }, 
+  "117": {
+    "name": "Trail Blazer",
+    "rarity": "3",
+    "wear_max": 0.70,
+    "wear_min": 0.0
+  }, 
+    "118": {
+    "name": "Turbine",
+    "rarity": "4",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },     
+  "112": {
+    "name": "Hydro Strike",
+    "rarity": "4",
+    "wear_max": 0.80,
+    "wear_min": 0.0
+  }, 
+    "126": {
+    "name": "Saibā Oni",
+    "rarity": "4",
+    "wear_max": 0.66,
+    "wear_min": 0.0
+  }, 
+  "127": {
+    "name": "Randy Rush",
+    "rarity": "4",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },  
+  "128": {
+    "name": "Rapid Transit",
+    "rarity": "4",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },   
+  "113": {
+    "name": "The Outsiders",
+    "rarity": "5",
+    "wear_max": 0.90,
+    "wear_min": 0.0
+  },   
+  "130": {
+    "name": "Epicenter",
+    "rarity": "5",
+    "wear_max": 0.80,
+    "wear_min": 0.0
+  },     
+  "131": {
+    "name": "Neo-Noir",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },   
+  "129": {
+    "name": "Gold Toof",
+    "rarity": "6",
+    "wear_max": 0.73,
+    "wear_min": 0.0
+  },   
+  "106": {
+    "name": "Vaporwave",
+    "rarity": "6",
+    "wear_max": 0.60,
+    "wear_min": 0.0
+  }       
 }
