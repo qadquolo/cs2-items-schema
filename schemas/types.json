@@ -1,29 +1,94 @@
 {
-  "0": "C4",
-  "1": "Rifle",
-  "10": "Agent",
-  "11": "Grenade",
-  "12": "Container",
-  "13": "Collectible",
-  "14": "Shotgun",
-  "15": "Tool",
-  "16": "Sniper Rifle",
-  "17": "Key",
-  "18": "Graffiti",
-  "19": "Charm",
-  "2": "Gloves",
-  "20": "Sticker",
-  "21": "Pass",
-  "22": "Mission",
-  "23": "Tag",
-  "24": "SMG",
-  "25": "Pistol",
-  "26": "Contract",
-  "3": "Gift",
-  "4": "Machinegun",
-  "5": "Music Kit",
-  "6": "Equipment",
-  "7": "Knife",
-  "8": "Patch",
-  "9": "Campaign"
+  "0": {
+    "type": "C4"
+  },
+  "1": {
+    "type": "Rifle",
+    "rartype": "weapon"
+  },
+  "10": {
+    "type": "Agent",
+    "rartype": "character"
+  },
+  "11": {
+    "type": "Grenade"
+  },
+  "12": {
+    "type": "Container"
+  },
+  "13": {
+    "type":"Collectible"
+  },
+  "14": {
+    "type":"Shotgun", 
+    "rartype": "weapon"
+  },
+  "15": {
+    "type":"Tool"
+  },
+  "16": {
+    "type":"Sniper Rifle", 
+    "rartype": "weapon"
+  },
+  "17": {
+    "type":"Key"
+  },
+  "18": {
+    "type":"Graffiti",
+    "rartype": "nonweapon"
+  },
+  "19": {
+    "type":"Charm"
+  },
+  "2": {
+    "type":"Gloves"
+  },
+  "20": {
+    "type":"Sticker",
+    "rartype": "nonweapon"
+  },
+  "21": {
+    "type":"Pass"
+  },
+  "22": {
+    "type":"Mission"
+  },
+  "23": {
+    "type":"Tag"
+  },
+  "24": {
+    "type":"SMG", 
+    "rartype": "weapon"
+  },
+  "25": {
+    "type":"Pistol", 
+    "rartype": "weapon"
+  },
+  "26": {
+    "type":"Contract"
+  },
+  "3": {
+    "type":"Gift"
+  },
+  "4": {
+    "type":"Machinegun", 
+    "rartype": "weapon"
+  },
+  "5": {
+    "type":"Music Kit"
+  },
+  "6": {
+    "type":"Equipment"
+  },
+  "7": {
+    "type":"Knife", 
+    "rartype": "weapon"
+  },
+  "8": {
+    "type":"Patch",
+    "rartype": "nonweapon"
+  },
+  "9": {
+    "type":"Campaign"
+  }
 }
